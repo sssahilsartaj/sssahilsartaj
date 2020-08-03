@@ -17,9 +17,9 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kaggle | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210770-57294580-d5de-11ea-9e61-3cb47e9f8618.png" />][kaggle]
+[<img align="left" alt="kaggle | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89211792-f13dbd80-d5df-11ea-8453-291e737ee28d.png" />][kaggle]
 [<img align="left" alt="reddit | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210876-82139980-d5de-11ea-8baf-23c6d5de4703.png" />][reddit]
-[<img align="left" alt="datacamp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][datacamp]
+[<img align="left" alt="datacamp | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89211585-b63b8a00-d5df-11ea-9c24-f86476121643.jpg" />][datacamp]
 [<img align="left" alt="facebook | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210940-9fe0fe80-d5de-11ea-9611-74be26008e6a.png" />][facebook]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
