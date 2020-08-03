@@ -28,6 +28,26 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89212985-0b789b00-d5e2-11ea-94ec-09eb0be0c9f5.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213036-192e2080-d5e2-11ea-8bf5-90683a8fd056.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213175-52669080-d5e2-11ea-9e8c-affda09578fd.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213197-5beff880-d5e2-11ea-8829-3b0b44343e09.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213083-2a772d00-d5e2-11ea-8e76-70d31a1e4d77.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213117-395ddf80-d5e2-11ea-9276-ab497a033c89.jpg" />]
+[<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213146-437fde00-d5e2-11ea-8cff-f59e81d7ffef.png" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+[<img align="left" alt="HTML5" width="26px" src="" />]
+
 
 
 ---
