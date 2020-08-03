@@ -41,10 +41,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227710-c6f9f900-d5fb-11ea-9c9e-9eddd80c4ddb.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227731-d37e5180-d5fb-11ea-9ea6-fcc009dbb295.png" />
 
+<br />
+
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Sartaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sssahilsartaj&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/sssahilsartaj/
