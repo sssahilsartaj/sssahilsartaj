@@ -1,8 +1,8 @@
 ### Hi there, I'm Sahil Sartaj [codeSTACKr][website] 👋
 
 ## I'm a CS Student, Data Inquisitive, Developer, and Thinker!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- :octocat: I’m currently working on a [Project]
+- 🌱 I’m currently learning Deep Learning 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
