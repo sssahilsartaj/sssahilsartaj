@@ -1,11 +1,11 @@
 ### Hi there, I'm Sahil Sartaj [codeSTACKr][website] 👋
 
 ## I'm a CS Student, Data Inquisitive, Developer, and Thinker!
-- :octocat: I’m currently working on a [Project]
-- 🌱 I’m currently learning Deep Learning 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :octocat: I’m currently working on a [Deep Learning Project]
+- :shipit: I’m currently learning Deep Learning 🤣
+- :heavy_dollar_sign: I’m looking to collaborate with other content creators
+- :high_brightness: 2020 Goals: Mastered Machine Learning and Deep Learning
+- :notebook_with_decorative_cover: Apart from technology I love Philosophy & Psychology
 
 ### Connect with me:
 
