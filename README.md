@@ -1,4 +1,4 @@
-### Hi there, I'm Sahil Sartaj [codeSTACKr][website] 👋
+### Hi there, I'm Sahil Sartaj  👋
 
 <img align="right" alt="coder.gif" width="350px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" />
 
@@ -48,7 +48,6 @@
 
 <img align="left" alt="Sartaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sssahilsartaj&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
 [linkedin]: https://www.linkedin.com/in/sssahilsartaj/
 [kaggle]: https://www.kaggle.com/sahilsartaj
 [stackoverflow]: https://stackoverflow.com/users/10901959/sahil-sartaj?tab=profile
