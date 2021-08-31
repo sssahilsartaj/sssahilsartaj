@@ -45,7 +45,6 @@
 ---
 
 
-<img align="left" alt="Sartaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sssahilsartaj&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/sssahilsartaj/
 [kaggle]: https://www.kaggle.com/sahilsartaj
