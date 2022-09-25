@@ -6,7 +6,7 @@
 - :octocat: I’m currently working on a [Deep Learning Project]
 - :shipit: I’m currently learning Deep Learning 
 - :heavy_dollar_sign: I’m looking to collaborate with other content creators
-- :high_brightness: 2021 Goals: Mastered Machine Learning and Deep Learning. Also Mastered core Computer Science subjects.
+- :high_brightness: 2022 Goals: Mastered Machine Learning and Deep Learning. Also Mastered core Computer Science subjects.
 - :notebook_with_decorative_cover: Apart from technology I love Philosophy & Writing Quotes
 
 <br />
