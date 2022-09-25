@@ -21,7 +21,6 @@
 [<img align="left" alt="datacamp | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89212016-60b3ad00-d5e0-11ea-96d9-cc326429c92b.png" />][datacamp]
 [<img align="left" alt="facebook | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210940-9fe0fe80-d5de-11ea-9611-74be26008e6a.png" />][facebook]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
