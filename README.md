@@ -1,23 +1,21 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sssahilsartaj&label=Profile%20views&color=0e75b6&style=flat-square" alt="sssahilsartaj" /> </p>
+
 <h1 align="center">Hi 👋, I'm Sartaj</h1>
 <h3 align="center">A passionate Java backend developer from India with lot of enthusiasm in Machine Learning</h3>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sssahilsartaj&label=Profile%20views&color=0e75b6&style=flat-square" alt="sssahilsartaj" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sssahilsartaj" alt="sssahilsartaj" /></a> </p>
+
 
 <p> <img align="right" alt="coder.gif" width="350px" height="260px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" /> </p>
 
+- 🔭 I’m currently working on [**Blog Application using Spring Boot**]
 
-
-
-- 🔭 I’m currently working on [Blog Application using Spring Boot]([still in progress])
-
-- 🌱 I’m currently learning **Statistics, EDA, Machine Learning**
+- 🌱 I’m currently learning **JEE, Spring Boot, Statistics, EDA, Machine Learning**
 
 - 📫 How to reach me **DND except coding**
 
-- :high_brightness: 2023 Goals: Mastered Backend Development and create a project using Machine Learning & Deep Learning
+- :high_brightness: 2023 Goals: Mastered Backend Development and create a NLP project
 
 - :notebook_with_decorative_cover: Apart from technology I love Philosophy & Writing Quotes
 
