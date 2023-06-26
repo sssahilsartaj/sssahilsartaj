@@ -1,55 +1,47 @@
-### Hi there, I'm Sahil Sartaj  👋
+<h1 align="center">Hi 👋, I'm Sartaj</h1>
+<h3 align="center">A passionate Java backend developer from India with lot of enthusiasm in Machine Learning</h3>
 
-<img align="right" alt="coder.gif" width="350px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" />
+<img align="right" alt="coder.gif" width="350px" height="270px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" />
 
-## I'm a CS Student, Data Inquisitive, Developer, and Thinker!
-- :octocat: I’m currently working on a [Deep Learning Project]
-- :shipit: I’m currently learning Deep Learning 
-- :heavy_dollar_sign: I’m looking to collaborate with other content creators
-- :high_brightness: 2022 Goals: Mastered Machine Learning and Deep Learning. Also Mastered core Computer Science subjects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sssahilsartaj&label=Profile%20views&color=0e75b6&style=flat-square" alt="sssahilsartaj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sssahilsartaj" alt="sssahilsartaj" /></a> </p>
+
+<br />
+
+- 🔭 I’m currently working on [Blog Application using Spring Boot]([still in progress])
+
+- 🌱 I’m currently learning **Statistics, EDA, Machine Learning**
+
+- 📫 How to reach me **DND except coding**
+
+- :high_brightness: 2023 Goals: Mastered Backend Development and create a project using Machine Learning & Deep Learning
+
 - :notebook_with_decorative_cover: Apart from technology I love Philosophy & Writing Quotes
 
-<br />
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/sahilsartaj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sahilsartaj4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sssahilsartaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sssahilsartaj/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10901959/sahil-sartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10901959/sahil-sartaj" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/sahilsartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sahilsartaj" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sssahilsartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sssahilsartaj" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sssahilsartaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sssahilsartaj/" height="30" width="40" /></a>
+</p>
 
 
 
-### Connect with me:
+<h3 align="left">Languages and Tools:</h3>
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kaggle | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89211792-f13dbd80-d5df-11ea-8453-291e737ee28d.png" />][kaggle]
-[<img align="left" alt="reddit | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210876-82139980-d5de-11ea-8baf-23c6d5de4703.png" />][reddit]
-[<img align="left" alt="datacamp | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89212016-60b3ad00-d5e0-11ea-96d9-cc326429c92b.png" />][datacamp]
-[<img align="left" alt="facebook | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/46869388/89210940-9fe0fe80-d5de-11ea-9611-74be26008e6a.png" />][facebook]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+</p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sssahilsartaj&show_icons=true&theme=dark&locale=en&layout=compact" alt="sssahilsartaj" /></p>
 
-### Languages and Tools:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sssahilsartaj&show_icons=true&theme=dark&locale=en" alt="sssahilsartaj" /></p>
 
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89212985-0b789b00-d5e2-11ea-94ec-09eb0be0c9f5.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213036-192e2080-d5e2-11ea-8bf5-90683a8fd056.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213175-52669080-d5e2-11ea-9e8c-affda09578fd.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213197-5beff880-d5e2-11ea-8829-3b0b44343e09.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213083-2a772d00-d5e2-11ea-8e76-70d31a1e4d77.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213117-395ddf80-d5e2-11ea-9276-ab497a033c89.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89213146-437fde00-d5e2-11ea-8cff-f59e81d7ffef.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227611-a0d45900-d5fb-11ea-8c44-6f2eae38f447.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227639-ac278480-d5fb-11ea-8c5c-a714bbc86104.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227682-bb0e3700-d5fb-11ea-9cd2-de652358ba19.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227710-c6f9f900-d5fb-11ea-9c9e-9eddd80c4ddb.jpg" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/46869388/89227731-d37e5180-d5fb-11ea-9ea6-fcc009dbb295.png" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sssahilsartaj&theme=dark" alt="sssahilsartaj" /></p>
 
-<br />
-
----
-
-
-
-[linkedin]: https://www.linkedin.com/in/sssahilsartaj/
-[kaggle]: https://www.kaggle.com/sahilsartaj
-[stackoverflow]: https://stackoverflow.com/users/10901959/sahil-sartaj?tab=profile
-[twitter]: https://twitter.com/SahilSartaj4
-[instagram]: https://www.instagram.com/sssahil_sartaj/?hl=en
-[facebook]: https://www.facebook.com/sssahilsartaj
-[reddit]: https://www.reddit.com/user/sssartaj
-[datacamp]: https://www.datacamp.com/profile/sssartaj
