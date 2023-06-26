@@ -2,13 +2,14 @@
 <h3 align="center">A passionate Java backend developer from India with lot of enthusiasm in Machine Learning</h3>
 <br />
 
-<img align="right" alt="coder.gif" width="350px" height="260px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssahilsartaj&label=Profile%20views&color=0e75b6&style=flat-square" alt="sssahilsartaj" /> </p>
+
+<p> <img align="right" alt="coder.gif" width="350px" height="260px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sssahilsartaj" alt="sssahilsartaj" /></a> </p>
 
-<br />
+
+
 
 - 🔭 I’m currently working on [Blog Application using Spring Boot]([still in progress])
 
