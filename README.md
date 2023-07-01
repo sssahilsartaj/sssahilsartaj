@@ -9,7 +9,7 @@
 
 <p> <img align="right" alt="coder.gif" width="350px" height="260px" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif" /> </p>
 
-- 🔭 I’m currently working on [**Blog Application using Spring Boot**]
+- 🔭 I’m currently working on **Blog Application using Spring Boot**
 
 - 🌱 I’m currently learning **JEE, Spring Boot, Statistics, EDA, Machine Learning**
 
