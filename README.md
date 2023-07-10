@@ -25,15 +25,10 @@
 
 <p align="left">
 <a href="https://twitter.com/sahilsartaj4" title="Sartaj twitter Account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sahilsartaj4" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/sssahilsartaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sssahilsartaj/" title="Sartaj linkedin Account" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/10901959/sahil-sartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10901959/sahil-sartaj" title="Sartaj stackoverflow Account" height="30" width="40" /></a>
-
 <a href="https://www.kaggle.com/sahilsartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sahilsartaj" title="Sartaj kaggle Account" height="30" width="40" /></a>
-
 <a href="https://www.facebook.com/sssahilsartaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sssahilsartaj" title="Sartaj facebook Account" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/sssahilsartaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sssahilsartaj/" title="Sartaj instagram Account" height="30" width="40" /></a>
 </p>
 
